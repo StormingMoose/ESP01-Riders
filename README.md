@@ -7,7 +7,12 @@ https://youtu.be/p1H4KR-Hz1M
 
 https://youtu.be/pHr4IiNNTEU
 
-ESP-01 Proof it works.  :)   Common ground is in the power pack.  Tapped the power and ground going to the esp-01 for the servo to avoid
-even more spaghetti with a logic level converter.  
+ESP01-Riders :)   
+
+Common ground is in the power pack.  
+Tapped the power and ground going to the esp-01 for the servo to avoid even more spaghetti with a logic level converter.  
 
 Built the software in two parts. motors then servos and merged the software and dumped all the serial prints.
+
+https://www.thingiverse.com/thing:5393551 for the ESP-01 meccano mount.
+
